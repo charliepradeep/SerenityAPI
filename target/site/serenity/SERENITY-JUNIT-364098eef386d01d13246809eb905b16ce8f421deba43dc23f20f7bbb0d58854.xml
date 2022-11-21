@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="1" failures="0" name="api.post.PetsAPI" skipped="0" tests="1" time="0.2" timestamp="2022-11-21 11:17:30"><testcase classname="api.post.PetsAPI" name="Verify POST api"><error message="No value present" type="java.util.NoSuchElementException">No value present</error><system-err>No value present
+api.post.PetsAPI.verifyPOSTApi(PetsAPI.java:85)
+</system-err></testcase></testsuite>

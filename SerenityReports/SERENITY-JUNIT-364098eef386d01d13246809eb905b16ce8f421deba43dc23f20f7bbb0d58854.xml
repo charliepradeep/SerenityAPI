@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="api.post.PetsAPI" skipped="0" tests="3" time="8.73" timestamp="2022-11-21 11:21:34"><testcase classname="api.post.PetsAPI" name="Verify POST api"/><testcase classname="api.post.PetsAPI" name="Verify PUT api"/><testcase classname="api.post.PetsAPI" name="Verify DELETE api"/></testsuite>
